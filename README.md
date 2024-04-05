@@ -1,2 +1,2 @@
 # python_darslari
-boshlang'ich python darslari
+boshlang'ich python darslari sinov
